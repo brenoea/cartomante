@@ -1,0 +1,2 @@
+# cartomante
+Cartomante Forecasting Project
